@@ -1,0 +1,6 @@
+* Other people who've done AoC in CL
+https://github.com/rabuf/advent-of-code
+https://github.com/PuercoPop/advent-of-code
+
+* Potentially interesting things
+https://nikodemus.github.io/screamer/
